@@ -26,7 +26,7 @@ With these instructions loaded, upload your paper to a chat and ask the assistan
   </tbody>
 </table>
 
-Created by [Alexander Korotin](https://acorotin.netlify.app) with the help of AI assistants.
+Created by [Alexander Korotin](https://akorotin.netlify.app) with the help of AI assistants.
 
 ## Run a review
 
